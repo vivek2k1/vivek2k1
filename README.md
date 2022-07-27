@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Vivek Kumar.
+- 👀 I’m interested in Data Science and Machine Learning.
+- 🌱 I’m currently pursuing PG Program in DataScience, MachineLearning and Neural Networks from DataTrained Institute.
+- 💞️ I’m open for Data Scientist, Data Analyst, Business Analyst and much more roles in Data Science Field.
+- 📫 How to reach me - please drop a mail on - vivekkumar2k1@gmail.com for any opportunity.
